@@ -1,0 +1,17 @@
+D:\ООП\Lab30\Lab30\bin\Debug\net8.0-windows\Lab30.exe
+D:\ООП\Lab30\Lab30\bin\Debug\net8.0-windows\Lab30.deps.json
+D:\ООП\Lab30\Lab30\bin\Debug\net8.0-windows\Lab30.runtimeconfig.json
+D:\ООП\Lab30\Lab30\bin\Debug\net8.0-windows\Lab30.dll
+D:\ООП\Lab30\Lab30\bin\Debug\net8.0-windows\Lab30.pdb
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.Form1.resources
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.SettingForm.resources
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.csproj.GenerateResource.cache
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.AssemblyInfoInputs.cache
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.AssemblyInfo.cs
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.csproj.CoreCompileInputs.cache
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.dll
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\refint\Lab30.dll
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.pdb
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\Lab30.genruntimeconfig.cache
+D:\ООП\Lab30\Lab30\obj\Debug\net8.0-windows\ref\Lab30.dll
